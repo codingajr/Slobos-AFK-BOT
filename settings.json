@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ffmcm.aternos.me:23341",
+    "port": 23341,
+    "version": "1.18.2"
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,8 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like to play
+        Minecraft!"
       ]
     },
     "chat-log": true,
